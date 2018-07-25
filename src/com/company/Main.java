@@ -30,7 +30,7 @@ public class Main {
                 System.out.println(fibaPirmas);
                 System.out.println(fibaAntras);
             }
-        };
+        }
 
         //------------------------------------------------------------------------
         //Užduotis nr.3
@@ -53,7 +53,7 @@ public class Main {
         for (int i = 0; i < arrayOne.length; i++){
             if (arrayOne[i] >= largest){
                 largest = arrayOne[i];
-                
+
                 System.out.println(largest);
             }
 
